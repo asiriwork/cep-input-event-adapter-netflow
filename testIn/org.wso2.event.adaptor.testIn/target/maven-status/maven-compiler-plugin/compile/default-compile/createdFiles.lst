@@ -1,0 +1,4 @@
+org/wso2/event/adaptor/testIn/TestInEventAdaptorFactory.class
+org/wso2/event/adaptor/testIn/internal/util/TestInEventAdaptorConstants.class
+org/wso2/event/adaptor/testIn/TestInEventAdaptorType.class
+org/wso2/event/adaptor/testIn/internal/ds/TestInEventAdaptorServiceDS.class
