@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1390498691530
+Build-Jdk: 1.7.0_51
+Built-By: root
+Bundle-ManifestVersion: 2
+Bundle-Name: cep-input-event-adaptor
+Bundle-SymbolicName: cep-input-event-adaptor
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Export-Package: org.wso2.event.adaptor.testIn;version="1.0.0.SNAPSHOT";u
+ ses:="org.apache.axis2.engine,org.wso2.carbon.event.input.adaptor.core,
+ org.wso2.carbon.event.input.adaptor.core.config,org.wso2.carbon.event.i
+ nput.adaptor.core.message.config",org.wso2.event.adaptor.testIn.i18n;ve
+ rsion="1.0.0.SNAPSHOT"
+Import-Package: org.wso2.carbon.event.input.adaptor.core;version="[1.0,2
+ )",org.wso2.carbon.event.input.adaptor.core.config;version="[1.0,2)",or
+ g.wso2.carbon.event.input.adaptor.core.message.config;version="[1.0,2)"
+ ,org.apache.axis2.engine;resolution:=optional;version="[1.6,2)",org.apa
+ che.commons.logging;resolution:=optional;version="[1.1,2)",org.osgi.fra
+ mework;resolution:=optional;version="[1.7,2)",org.osgi.service.componen
+ t;resolution:=optional;version="[1.2,2)",org.wso2.event.adaptor.testIn;
+ resolution:=optional;version="[1.0,2)",javax.xml.namespace;version="0.0
+ .0"
+Service-Component: OSGI-INF/serviceComponents.xml
+Tool: Bnd-2.1.0.20130426-122213
