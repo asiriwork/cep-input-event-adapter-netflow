@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Bnd-LastModified: 1390502163190
+=======
+Bnd-LastModified: 1390498691530
+>>>>>>> 4a498997c238bf8f693469244d6812a60794e157
 Build-Jdk: 1.7.0_51
 Built-By: root
 Bundle-ManifestVersion: 2
